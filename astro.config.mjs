@@ -2,7 +2,7 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'https://afterloop.github.io',
+  site: 'https://afterloop8.github.io',
   base: '/orbit-blog/',
   markdown: {
     shikiConfig: {
